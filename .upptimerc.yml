@@ -24,8 +24,8 @@ status-website:
   # cname: demo.upptime.js.org
   cname: status.reishandy.my.id
   # baseUrl: /upptime
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: https://raw.githubusercontent.com/Reishandy/Reishandy/refs/heads/main/repo/logo_ori.webp
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/Reishandy/Reishandy/refs/heads/main/repo/logo_ori.webp
   name: Reishandy's Status
   introTitle: "**Reishandy's Services** Status Dashboard"
   introMessage: "Monitor the operational status of all Reishandy's services in real-time. This status page is powered by [Upptime](https://github.com/upptime/upptime), an open-source uptime monitor running on GitHub."
