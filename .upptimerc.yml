@@ -19,6 +19,8 @@ sites:
     url: https://comment-section.reishandy.my.id
   - name: Chatroom API - chatroom.reishandy.my.id
     url: https://chatroom.reishandy.my.id
+  - name: MyPertamina Sentiment Analysis API - mypertamina-sentiment-api.reishandy.my.id
+    url: https://mypertamina-sentiment-api.reishandy.my.id/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
