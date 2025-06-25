@@ -178,17 +178,17 @@
     "url": "https://mypertamina-sentiment-api.reishandy.my.id/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/mypertamina-sentiment-api.reishandy.my.id.ico",
     "slug": "my-pertamina-sentiment-analysis-api-mypertamina-sentiment-api-reishandy-my-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 717,
-    "timeDay": 694,
-    "timeWeek": 717,
-    "timeMonth": 717,
-    "timeYear": 717,
+    "time": 738,
+    "timeDay": 729,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   }
 ]
