@@ -1,7 +1,7 @@
 url: https://mypertamina-sentiment-api.reishandy.my.id/healthz
-status: down
-code: 530
-responseTime: 119
-lastUpdated: 2025-07-09T03:38:24.609Z
+status: up
+code: 200
+responseTime: 961
+lastUpdated: 2025-07-09T04:20:29.842Z
 startTime: 2025-06-23T15:22:36.588Z
 generator: Upptime <https://github.com/upptime/upptime>
