@@ -13,6 +13,8 @@ sites:
     url: https://kanban.reishandy.my.id
   - name: MyPertamina Sentiment Analysis - mypertamina-sentiment.reishandy.my.id
     url: https://mypertamina-sentiment.reishandy.my.id
+  - name: ERP - erp.reishandy.my.id
+    url: https://erp.reishandy.my.id
   - name: Guest Book API - guest-book.reishandy.my.id
     url: https://guest-book.reishandy.my.id
   - name: Comment Section API - comment-section.reishandy.my.id
