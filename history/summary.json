@@ -16,7 +16,7 @@
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-08-22": 1237
+      "2025-08-22": 1249
     }
   },
   {
@@ -160,19 +160,19 @@
     "url": "https://guest-book.reishandy.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/guest-book.reishandy.my.id.ico",
     "slug": "guest-book-api-guest-book-reishandy-my-id",
-    "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.12%",
-    "time": 839,
-    "timeDay": 1088,
-    "timeWeek": 965,
-    "timeMonth": 898,
-    "timeYear": 839,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.11%",
+    "time": 843,
+    "timeDay": 1120,
+    "timeWeek": 988,
+    "timeMonth": 907,
+    "timeYear": 843,
     "dailyMinutesDown": {
-      "2025-08-22": 21,
+      "2025-08-22": 32,
       "2025-08-17": 19,
       "2025-08-15": 17,
       "2025-08-14": 22,
