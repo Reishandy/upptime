@@ -5,24 +5,24 @@ repo: upptime # The name of this repository
 sites:
   - name: Reishandy - reishandy.id
     url: https://reishandy.id
-  - name: Bazaar - bazaar.reishandy.my.id
-    url: https://bazaar.reishandy.my.id
-  - name: Pixel Positions - pixel-positions.reishandy.my.id
-    url: https://pixel-positions.reishandy.my.id
-  - name: Kanban - kanban.reishandy.my.id
-    url: https://kanban.reishandy.my.id
-  - name: MyPertamina Sentiment Analysis - mypertamina-sentiment.reishandy.my.id
-    url: https://mypertamina-sentiment.reishandy.my.id
-  - name: ERP - erp.reishandy.my.id
-    url: https://erp.reishandy.my.id
-  - name: Guest Book API - guest-book.reishandy.my.id
-    url: https://guest-book.reishandy.my.id
-  - name: Comment Section API - comment-section.reishandy.my.id
-    url: https://comment-section.reishandy.my.id
-  - name: Chatroom API - chatroom.reishandy.my.id
-    url: https://chatroom.reishandy.my.id
-  - name: MyPertamina Sentiment Analysis API - mypertamina-sentiment-api.reishandy.my.id
-    url: https://mypertamina-sentiment-api.reishandy.my.id/healthz
+#  - name: Bazaar - bazaar.reishandy.my.id
+#    url: https://bazaar.reishandy.my.id
+#  - name: Pixel Positions - pixel-positions.reishandy.my.id
+#    url: https://pixel-positions.reishandy.my.id
+#  - name: Kanban - kanban.reishandy.my.id
+#    url: https://kanban.reishandy.my.id
+#  - name: MyPertamina Sentiment Analysis - mypertamina-sentiment.reishandy.my.id
+#    url: https://mypertamina-sentiment.reishandy.my.id
+#  - name: ERP - erp.reishandy.my.id
+#    url: https://erp.reishandy.my.id
+#  - name: Guest Book API - guest-book.reishandy.my.id
+#    url: https://guest-book.reishandy.my.id
+#  - name: Comment Section API - comment-section.reishandy.my.id
+#    url: https://comment-section.reishandy.my.id
+#  - name: Chatroom API - chatroom.reishandy.my.id
+#    url: https://chatroom.reishandy.my.id
+#  - name: MyPertamina Sentiment Analysis API - mypertamina-sentiment-api.reishandy.my.id
+#    url: https://mypertamina-sentiment-api.reishandy.my.id/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
